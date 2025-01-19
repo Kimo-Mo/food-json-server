@@ -289,6 +289,38 @@
     {
       "menu_name": "Noodles",
       "menu_image": "/imgs/menu_8.png"
+    },
+    {
+      "menu_name": "Salad",
+      "menu_image": "/imgs/menu_1.png"
+    },
+    {
+      "menu_name": "Rolls",
+      "menu_image": "/imgs/menu_2.png"
+    },
+    {
+      "menu_name": "Deserts",
+      "menu_image": "/imgs/menu_3.png"
+    },
+    {
+      "menu_name": "Sandwich",
+      "menu_image": "/imgs/menu_4.png"
+    },
+    {
+      "menu_name": "Cake",
+      "menu_image": "/imgs/menu_5.png"
+    },
+    {
+      "menu_name": "Pure Veg",
+      "menu_image": "/imgs/menu_6.png"
+    },
+    {
+      "menu_name": "Pasta",
+      "menu_image": "/imgs/menu_7.png"
+    },
+    {
+      "menu_name": "Noodles",
+      "menu_image": "/imgs/menu_8.png"
     }
   ]
 }
